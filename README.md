@@ -7,6 +7,12 @@ due to the incoming pandemic.
 Tested January 2024 and it still works. Cleaned it up a smidge. COVID's peaking
 again, too. Wear an N95 respirator in public indoor spaces & stay safe, friends.
 
+> [!NOTE]
+> Status: **FINISHED**
+> <br><br>
+> It works as intended. I probably won't invest any more development time.
+> **Feel free to fork it** to do what you want!
+
 ## Features
 
 - Downloads all releases for one or more platforms
