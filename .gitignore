@@ -1,0 +1,8 @@
+node_modules
+*.log
+
+# Sublime Text project files
+*.sublime-*
+
+# Output dir
+unity-versions
