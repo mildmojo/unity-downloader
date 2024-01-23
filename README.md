@@ -1,8 +1,12 @@
 # unity-downloader
 
-Small script to download published versions of [Unity](https://unity3d.com) by
-platform. Developed in February 2020 right before Train Jam 2020 was cancelled
-due to the incoming pandemic.
+Small script to download published installers for the [Unity3d game engine](https://unity3d.com)
+by platform.
+
+Developed in February 2020 right before [Train Jam](https://trainjam.com/)
+2020 was cancelled due to the incoming pandemic. It's really handy to have all
+offline installers for all versions/platforms when you're about to make games
+with ~strangers~ new friends for several days without reliable internet access.
 
 Tested January 2024 and it still works. Cleaned it up a smidge. COVID's peaking
 again, too. Wear an N95 respirator in public indoor spaces & stay safe, friends.
@@ -15,10 +19,11 @@ again, too. Wear an N95 respirator in public indoor spaces & stay safe, friends.
 
 ## Features
 
-- Downloads all releases for one or more platforms
+- Downloads all Unity releases for one or more platforms from the same CDN used
+  by [Unity Hub](https://unity.com/unity-hub).
 - Resumes download progress if interrupted
 - Colorful output
-- Progress bars
+- Pretty progress bars
 
 ## Usage
 
